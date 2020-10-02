@@ -213,67 +213,31 @@ footer nav a {
     margin-bottom: 15px;
 }
 
-.first_container {
+.body_container {
     display: flex;
     flex-flow: row nowrap;
     margin-bottom: 20px;
+    justify-content: center;
 }
 
-.strategy {
+.main_content {
     display: flex;
     flex-direction: column;
-    margin-right: 2%;
+    margin: 0px 0px 0px 10px;
     align-items: flex-start;
     border-bottom: 1px dashed black;
-    
 }
 
-.how_we_work {
-    display: flex;
-    flex-direction: column;
-    margin-left: 2%;
-    align-items: flex-start;
-    border-bottom: 1px dashed black;
-    
-}
-
-.first_container p {
+.main_content p {
     margin-bottom: 15px;
 }
-
-.learn_more {
+.main_content a {
     padding: 10px 15px;
     border: 2px solid black;
     border-radius: 15px;
     text-decoration: none;
     background-color: white;
     color: black;
-    margin-bottom: 15px;
-}
-
-.second_container {
-    display: flex;
-    flex-flow: row nowrap;
-    margin-bottom: 20px;
-}
-
-.places_we_work {
-    display: flex;
-    flex-direction: column;
-    margin-right: 2%;
-    align-items: flex-start;
-    border-bottom: 1px dashed black;
-}
-
-.collaboration {
-    display: flex;
-    flex-direction: column;
-    margin-left: 2%;
-    align-items: flex-start;
-    border-bottom: 1px dashed black;
-}
-
-.second_container p {
     margin-bottom: 15px;
 }
 
