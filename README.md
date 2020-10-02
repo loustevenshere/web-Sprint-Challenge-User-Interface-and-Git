@@ -1,4 +1,4 @@
-# Sprint Challenge: User Interface and Git - Multi-Page Website
+y # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
@@ -34,13 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic html helps identify the different sections of a webpage. This makes the webpage easily readable by the browser and helps search engines find and label the content that comprises your website.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Display: block elements take up a whole row of webpage and does pushes other elements to another row.
+    Display: inline elements only take up the amount of space that is needed to display their content, they allow other elements to sit next to them.
 
 3. What are the 4 areas of the box model?
 
+    Margin, border, padding, content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    Cross Axis
+
+
 5. Explain why git is valuable to a team of developers.
+
+    Because it allows collaboration very seamlessly and easily. Developers can clone projects to their local computer, create their own branches and change code as they see fit without changing the master branch, they can push their branches back onto github and compare their changes with the main branch or their team members branches. They can accept the changes to the main branch that are worthwhile and ignore the ones that are not. Git is a great tool for independent collaboration. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
